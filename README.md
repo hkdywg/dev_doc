@@ -3,6 +3,24 @@
 
 ## 编程
 
+[C专家编程.pdf](./01_programming/c/C专家编程.pdf)
+
+[C和指针.pdf](./01_programming/c/C和指针.pdf)
+
+[C陷阱与缺陷(中文版清晰版).pdf](./01_programming/c/C陷阱与缺陷(中文版清晰版).pdf)
+
+[深入理解c指针.pdf](./01_programming/c/深入理解c指针.pdf)
+
+[C++.Primer.Plus（中文版第5版）.pdf](./01_programming/c++/C++.Primer.Plus（中文版第5版）.pdf)
+
+[C++Templates中文版.pdf](./01_programming/c++/C++Templates中文版.pdf)
+
+[C++模板元编程.pdf](./01_programming/c++/C++模板元编程.pdf)
+
+[C++编程思想第二卷.pdf](./01_programming/c++/C++编程思想第二卷.pdf)
+
+[深度探索C++对象模型.pdf](./01_programming/c++/深度探索C++对象模型.pdf)
+
 ## 算法 
 
 ## 数据结构 
