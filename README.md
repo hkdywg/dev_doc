@@ -48,14 +48,35 @@
 [算法图解.pdf](./02_alogorithm/算法图解.pdf)
 
 
-## 数据结构 
+## 网络 
+
+[TCP-IP详解卷I.pdf](./03_network/TCP-IP详解卷I.pdf)
+
+[TCP-IP详解卷II.pdf](./03_network/TCP-IP详解卷II.pdf)
+
+[TCP-IP详解卷III.pdf](./03_network/TCP-IP详解卷III.pdf)
+
+[图解TCP_IP_第5版.pdf](./03_network/图解TCP_IP_第5版.pdf)
+
+[HTTP权威指南.pdf](./03_network/HTTP权威指南.pdf)
 
 ## 操作系统
+
+[深入理解linux内核（中文第三版）.pdf](./04_operating_system/深入理解linux内核（中文第三版）.pdf)
+
+[Linux内核源代码情景分析(全册高清带书签).pdf](./04_operating_system/Linux内核源代码情景分析(全册高清带书签).pdf)
 
 [奔跑吧Linux内核卷1基础架构.pdf](./04_operating_system/奔跑吧Linux内核卷1基础架构.pdf)
 
 [奔跑吧Linux内核卷2:调试与案例分析.pdf](./04_operating_system/奔跑吧Linux内核卷2:调试与案例分析.pdf)
 
+
+
 ## FPGA
 
 [FPGA设计实战演练高级技巧篇_王敏志.pdf](./05_fpga/FPGA设计实战演练高级技巧篇_王敏志.pdf)
+
+[《手把手教你设计CPU_RISC-V处理器篇》.pdf](./05_fpga/《手把手教你设计CPU_RISC-V处理器篇》.pdf)
+
+
+
