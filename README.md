@@ -35,7 +35,7 @@
 
 [高级Bash脚本编程指南.pdf](./01_programming/shell/高级Bash脚本编程指南.pdf)
 
-[ANSI Common Lisp 中文翻译版.pdf](./01_programming/shell/ANSI Common Lisp 中文翻译版.pdf)
+[ANSI_Common_Lisp.pdf](./01_programming/shell/ANSI_Common_Lisp.pdf)
 
 ## 算法 
 
