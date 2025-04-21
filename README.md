@@ -78,5 +78,6 @@
 
 [《手把手教你设计CPU_RISC-V处理器篇》.pdf](./05_fpga/《手把手教你设计CPU_RISC-V处理器篇》.pdf)
 
+[基于FPGA的数字图像处理原理及应用.pdf](./05_fpga/基于FPGA的数字图像处理原理及应用.pdf)
 
 
