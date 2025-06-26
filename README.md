@@ -80,4 +80,6 @@
 
 [基于FPGA的数字图像处理原理及应用.pdf](./05_fpga/基于FPGA的数字图像处理原理及应用.pdf)
 
+[基于VIP_Board_Big的FPGA入门进阶及图像处理算法开发教程.pdf](./05_fpga/基于VIP_Board_Big的FPGA入门进阶及图像处理算法开发教程.pdf)
+
 
